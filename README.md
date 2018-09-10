@@ -5,7 +5,8 @@ Checklist when preparing for a game showcase.
 ## Preparing build:
 
 * Restricted play areas.
-* Designated end time.  Otherwise players might play too long.
+  * Vertical slice.  Presentation matters
+* Designated end point.  Otherwise players might play too long.
   * Ending splash screen.  "Thanks for playing!"
 * Easy way to reset build from laptop.
 * Interesting title screen to draw attention.
