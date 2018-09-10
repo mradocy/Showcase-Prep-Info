@@ -1,5 +1,8 @@
 # Showcase Prep Info
-List of things to do to prepare for a game showcase.
+
+Checklist when preparing for a game showcase.
+
+## Things to bring:
 
 * Game
   * Restricted demo build.
@@ -13,6 +16,7 @@ List of things to do to prepare for a game showcase.
   * Power strip, extension cable
   * Controller(s) (clean beforehand)
   * Monitor(s) (clean beforehand), HDMI cable(s)
+    * May want to duplicate screen instead of extend it - so we can see what the player is doing when sitting at the table.
 * Retractable Roll-Up Banner
   * [Can get banners at InstantPrint](https://www.instantprinting.com/retractable-banners) (have not personally tried this place yet)
   * Really large file
@@ -37,3 +41,12 @@ List of things to do to prepare for a game showcase.
   * Water
   * Hand sanitizer (place on table, optional for players)
   * Friends (ensure at least 1 person is at the table at all times)
+
+## What to do at event:
+
+* 10 second pitch to players.
+* Drink water.
+* Exchange shifts with friends.
+  * When off duty: rest, eat, look at other games.
+* Take pictures.
+
