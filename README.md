@@ -21,6 +21,7 @@ Checklist when preparing for a game showcase.
   * Monitor(s) (clean beforehand), HDMI cable(s)
     * May want to duplicate screen instead of extend it - so we can see what the player is doing when sitting at the table.
     * If extra monitors can't play the game, they can play a trailer.
+  * Bubble wrap
 * Retractable Roll-Up Banner
   * [Can get banners at InstantPrint](https://www.instantprinting.com/retractable-banners) (have not personally tried this place yet)
   * Really large file
